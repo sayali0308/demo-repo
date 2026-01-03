@@ -68,6 +68,7 @@ pipeline {
                     
                     echo "Published ${artifactCount} artifact(s)"
                     echo "Status: ${publishStatus}"
+                    echo "text added"
                 }
             }
         }
